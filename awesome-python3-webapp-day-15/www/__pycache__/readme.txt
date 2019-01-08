@@ -1,0 +1,1 @@
+Programs are stored as compiled languages for analyzing.
